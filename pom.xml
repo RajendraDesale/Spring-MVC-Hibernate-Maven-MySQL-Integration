@@ -110,7 +110,7 @@
 			<scope>runtime</scope>
 		</dependency>
 
-		<dependency>
+<!-- 		<dependency>
 			<groupId>log4j</groupId>
 			<artifactId>log4j</artifactId>
 			<version>1.2.15</version>
@@ -133,7 +133,7 @@
 				</exclusion>
 			</exclusions>
 			<scope>runtime</scope>
-		</dependency>
+		</dependency> -->
 
 		<!-- @Inject -->
 		<dependency>
